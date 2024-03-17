@@ -1,0 +1,8 @@
+.Rproj
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+docs
+R/sysdata.rda
+R/random.rmd

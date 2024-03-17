@@ -1,0 +1,24 @@
+Type: Package
+Package: CogLearn
+Title: Streamline the VR data analysis for avoidance learning
+Version: 1.0.0
+Author: Huaiyu Liu (Ted) and Dominik Bach
+Maintainer: The package maintainer <huaiyu.liu@ucl.ac.uk>
+Description: This package contains helper functions to analyse data from
+    avoidance learning experiments run with the CogLearn toolkit for Unity
+License: MIT + file LICENSE
+Imports: 
+    tidyverse,
+    effectsize,
+    ggbeeswarm,
+    ggdist,
+    patchwork,
+    plotrix,
+    rlang,
+    Rmisc,
+    vrthreat
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Depends: 
+    R (>= 2.10)
