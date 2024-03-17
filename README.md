@@ -10,7 +10,7 @@ You can install the development version of CogLearn by running the following cod
 
 ```r
 # install.packages("devtools")
-devtools::install_git("git@gitlab.com:bachlab/coglearn/coglearn.git", ref = "main_develop")
+devtools::install_git("git@gitlab.com:bachlab/coglearn/coglearn.git", ref = "main")
 
 ```
 
